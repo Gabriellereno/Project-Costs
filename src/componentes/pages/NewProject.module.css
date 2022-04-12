@@ -1,0 +1,26 @@
+.newproject_container {
+width: 100vw;
+height: 100vh;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+
+.newproject_box {
+    width: 500px;
+    display: flex;
+   flex-direction: column;
+    padding: 3em;
+    justify-content: center;
+    align-content: center;
+}
+
+.newproject_box h1 {
+    margin-bottom: 0.5em;
+
+}
+
+.newproject_box p {
+    color: #7b7b7b;
+}
